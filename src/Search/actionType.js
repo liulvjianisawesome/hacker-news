@@ -1,0 +1,5 @@
+export const SET_SEARCHTERM = 'SEARCHTERM/SET';
+export const SET_SEARCHKEY = 'SEARCHKEY/SET';
+export const SET_ISLOADING = 'ISLOADING/SET';
+export const SET_RESULTS = 'RESULTS/SET';
+export const SET_ERROR = 'ERROR/SET';
